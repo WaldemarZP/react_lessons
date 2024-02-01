@@ -1,5 +1,5 @@
-const Character = ({character}) => {
-    const {name, img} = character;
+const Simpson = ({simpson}) => {
+    const {name, img} = simpson;
     return (
         <div>
             <h1>{name}</h1>
@@ -11,4 +11,4 @@ const Character = ({character}) => {
     );
 };
 
-export {Character};
+export {Simpson};

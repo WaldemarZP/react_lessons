@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20e73c83-1cd4-41f5-aa45-d62eed4c3f8f" name="Changes" comment="Merge remote-tracking branch 'origin/lesson3' into lesson3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/carService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/carService.js" afterDir="false" />
-    </list>
+    <list default="true" id="20e73c83-1cd4-41f5-aa45-d62eed4c3f8f" name="Changes" comment="Merge remote-tracking branch 'origin/lesson3' into lesson3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +189,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707674149734</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix gitignore branch 'origin/lesson3' into lesson3">
+      <option name="closed" value="true" />
+      <created>1707677118374</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707677118374</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix workspace">
+      <option name="closed" value="true" />
+      <created>1707677209259</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707677209259</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +235,9 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="init commit hw 3 react" />
     <MESSAGE value="Merge remote-tracking branch 'origin/lesson3' into lesson3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/lesson3' into lesson3" />
+    <MESSAGE value="commit branch 'origin/lesson3' into lesson3" />
+    <MESSAGE value="fix gitignore branch 'origin/lesson3' into lesson3" />
+    <MESSAGE value="fix workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix workspace" />
   </component>
 </project>

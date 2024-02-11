@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20e73c83-1cd4-41f5-aa45-d62eed4c3f8f" name="Changes" comment="fix workspace" />
+    <list default="true" id="20e73c83-1cd4-41f5-aa45-d62eed4c3f8f" name="Changes" comment="fixed workspace" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +100,7 @@
       <workItem from="1707585505969" duration="1557000" />
       <workItem from="1707670908824" duration="127000" />
       <workItem from="1707671045207" duration="3127000" />
+      <workItem from="1707677536290" duration="270000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -213,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707677258744</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fixed workspace">
+      <option name="closed" value="true" />
+      <created>1707677771391</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1707677771391</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +255,7 @@
     <MESSAGE value="commit branch 'origin/lesson3' into lesson3" />
     <MESSAGE value="fix gitignore branch 'origin/lesson3' into lesson3" />
     <MESSAGE value="fix workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix workspace" />
+    <MESSAGE value="fixed workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed workspace" />
   </component>
 </project>

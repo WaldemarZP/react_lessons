@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20e73c83-1cd4-41f5-aa45-d62eed4c3f8f" name="Changes" comment="fixed workspace" />
+    <list default="true" id="20e73c83-1cd4-41f5-aa45-d62eed4c3f8f" name="Changes" comment="fixed workspace">
+      <change afterPath="$PROJECT_DIR$/src/validators/carValidator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Car.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Car.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CarForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CarForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cars.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CarsContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CarsContainer.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +108,8 @@
       <workItem from="1707670908824" duration="127000" />
       <workItem from="1707671045207" duration="3127000" />
       <workItem from="1707677536290" duration="270000" />
+      <workItem from="1707678789321" duration="21000" />
+      <workItem from="1707845270165" duration="3170000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
